@@ -1,1 +1,2 @@
-Hello World von Lokal
+Hello World from Lokal
+Hello World from Remote
